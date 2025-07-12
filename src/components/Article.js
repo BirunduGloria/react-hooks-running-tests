@@ -1,11 +1,6 @@
-import React from "react";
-
+// src/components/Article.js
 function Article() {
-  return (
-    <div>
-      {/* please pass this test */}
-    </div>
-  );
+  return <p>please pass this test</p>;
 }
 
 export default Article;
